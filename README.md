@@ -1,6 +1,6 @@
-// 👋 Hi, I’m @Diane2007
-// 👀 I’m interested in writiuning and gaming
-// 🌱 I’m currently learning Unity
+- 👋 Hi, I’m @Diane2007
+- 👀 I’m interested in writiuning and gaming
+- 🌱 I’m currently learning Unity
 
 
 <!---

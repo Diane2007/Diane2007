@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Diane2007
-- 👀 I’m interested in writiuning and gaming
-- 🌱 I’m currently learning Unity
+- 👀 I’m a writer, narrative designer, and solo dev.
+- 🌱 I primarily work with Unity.
 
 
 <!---

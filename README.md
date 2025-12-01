@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Diane2007
+- 👋 Hi, I’m Diane Wang
 - 👀 I’m a writer, narrative designer, and solo dev.
 - 🌱 I primarily work with Unity.
 
